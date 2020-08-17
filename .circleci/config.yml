@@ -1,7 +1,7 @@
 executors:
   machine:
     environment:
-      USER_NAME: dxyg
+      USER_NAME: dvdxyg
       USER_EMAIL: david.kim.041005@gmail.com
     ruby:
       version: 2.4.1
