@@ -1,8 +1,8 @@
 executors:
   machine:
     environment:
-      USER_NAME: pepsipu
-      USER_EMAIL: pokeso123@hotmail.com
+      USER_NAME: dxyg
+      USER_EMAIL: david.kim.041005@gmail.com
     ruby:
       version: 2.4.1
     node:
