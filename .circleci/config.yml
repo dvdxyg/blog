@@ -14,7 +14,7 @@ jobs:
     steps:
       - add_ssh_keys:
           fingerprints:
-            - "3f:27:d2:84:82:63:d0:67:c8:b1:1f:fe:47:5a:23:c9"
+            - "b9:a6:f5:9a:0b:2b:49:a6:e6:5d:85:92:1e:15:d0:8c"
       - checkout
       - run:
             name: Install node@6.2.2 (need right version for `yarn`)
