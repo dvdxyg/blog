@@ -1,1 +1,1 @@
-just my blog
+blog i guess?
